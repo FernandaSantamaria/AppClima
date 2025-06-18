@@ -1,4 +1,13 @@
 # AppClima
+
+412-ISSC
+Medina Tamayo Diego Alejandro
+Plascencia Ibarreche Gerardo Adriel
+Santamaría Meza María Fernanda
+Victorica Gutierrez Elsa María
+Yepez Gonzalez Jahir Alejandro
+
+
 Proyecto desarrollado con Swift, usando Vapor, Mysql y SwiftUI. Esta aplicación muestra en detalle el clima de la ciudad que se introduzca en el buscador y recomienda un outfit de acuerdo a temperatura, viento y condiciones de lluvia.
 
 En Package.swift se hace la definición de las dependencia a usar, revisa que tengas las mismas para poder ejecutar sin problemas el proyecto.
@@ -16,4 +25,5 @@ El proyecto está dividido en carpetas
 Sources contiene los Models, Controllers y Migrations y para las imagenes estás definidas en la carpeta Public /images/outfits cada imagen dividida en categoria de género y clima.
 
 Ejemplo de prueba: https://5a72-192-141-247-104.ngrok-free.app/weather-outfit?city=Toluca&genero=hombre
+
 Los parametros city y genero son modificables, city puede tomar el valor de cualquier ciudad y genero toma valor hombre/mujer 
