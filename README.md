@@ -14,3 +14,6 @@ Con docker .. docker-compose up -d y abre en tu navegador http://localhost:8080
 
 El proyecto está dividido en carpetas
 Sources contiene los Models, Controllers y Migrations y para las imagenes estás definidas en la carpeta Public /images/outfits cada imagen dividida en categoria de género y clima.
+
+Ejemplo de prueba: https://5a72-192-141-247-104.ngrok-free.app/weather-outfit?city=Toluca&genero=hombre
+Los parametros city y genero son modificables, city puede tomar el valor de cualquier ciudad y genero toma valor hombre/mujer 
